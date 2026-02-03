@@ -17,9 +17,6 @@ Projects that use technology to solve complex problems—especially in the **aer
 📫 **How to reach me**  
 - LinkedIn: [shaheer-syed](https://www.linkedin.com/in/shaheer-syed)
 
-😄 **Pronouns**  
-_(Add if you’d like)_
-
 ⚡ **Fun fact**  
 I love traveling and exploring how technology can be used to fix real-world issues across the globe—especially in aviation ✈️
 
