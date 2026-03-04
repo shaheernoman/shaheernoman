@@ -7,7 +7,7 @@ Systems engineering and software development, with a strong focus on building re
 Advanced systems design, software engineering best practices, and exploring how technology can be applied to real-world aerospace and aviation challenges.
 
  **Tech Stack**  
-- **Languages:** Python, C#  
+- **Languages:** Python, C# (.NET), C++ 
 - **Web:** HTML, CSS  
 - **Interests:** System architecture, automation, problem-solving at scale
 
@@ -16,6 +16,7 @@ Projects that use technology to solve complex problems—especially in the **aer
 
  **How to reach me**  
 - LinkedIn: [shaheer-syed](https://www.linkedin.com/in/shaheer-syed)
+- Instagram: [shaheernoman747](https://www.instagram.com/shaheernoman747/)
 
  **Fun fact**  
 I love traveling and exploring how technology can be used to fix real-world issues across the globe—especially in aviation ✈️
